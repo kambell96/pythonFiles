@@ -41,9 +41,9 @@ if (colorDeBola == "blanca" || colorDeBola == "verde" || colorDeBola == "amarill
 
 	document.write(" sacaste la bola de color  " + colorDeBola + "  que tiene un descuento de  " + Descuento + "%")
 
-	document.write("<br />", " el valor del descuento seria : " + valorDescuento)
+	document.write("<br />" + " el valor del descuento seria : " + valorDescuento)
 
-	document.write("<br />", "  entonces el valor que el cliente debe pagar con el descuento es  " + valorApagar)
+	document.write("<br />" + "  entonces el valor que el cliente debe pagar con el descuento es  " + valorApagar)
 
 
 }
