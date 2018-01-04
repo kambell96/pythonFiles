@@ -2,7 +2,7 @@
 a = 0
 b = 0
 
-aCadena = "" 
+aCadena = ""
 bCadena = ""
 
 print(" escribe el valor de a : ")
@@ -16,7 +16,7 @@ a = int(aCadena)
 print(" escribe el valor de b : ")
 # leo el valor que se le asigne a (b)
 bCadena = input()
-# se convierte la cadena en entero 
+# se convierte la cadena en entero
 b = int(bCadena)
 
 #estoy comprando el valor asignado de a si es mayor que b
