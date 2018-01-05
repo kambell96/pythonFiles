@@ -8,5 +8,6 @@ while (cantd <= number) {
 	var suma = suma + cantd;
 	var cantd = cantd + 1;
 
-	document.write("</br>" + " la suma de los primeros numeros es : " + "</br>" + "</br>" + number + " es " + suma + "</br>");
+
 }
+document.write("</br>" + " la suma de los primeros cinco numeros es : " + suma);
